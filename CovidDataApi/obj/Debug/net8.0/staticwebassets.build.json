@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HiKU2RleEyIrvd4cBxl8TAIPllDZjwU+XkGuFTzc2GE=",
+  "Source": "CovidDataApi",
+  "BasePath": "_content/CovidDataApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
